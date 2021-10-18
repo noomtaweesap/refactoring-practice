@@ -41,7 +41,7 @@ The Recipe class defines a recipe for a hot beverage with attributes:
 * price - (float) price in Baht
 
 Refactor `main.py`.  What can you do to eliminate the long, boring code?
-
+- Replace redundant code with a creational method.
 
 
 
