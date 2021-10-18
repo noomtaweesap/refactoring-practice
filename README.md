@@ -11,6 +11,8 @@ Each subdirectory contains some code that needs refactoring.
 ## `time/timestamp.py`
 
 - Rename function.
+- Make new variable using tuple.
+- Extract new method.
 
 ## `game_framework/gamelib.py`
 
